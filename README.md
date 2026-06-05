@@ -78,9 +78,9 @@ An interactive Excel dashboard designed to analyze Global Superstore sales data 
 
 ## Dashboard Preview
 
-# ![Dashboard Screenshot] (Dashboard_Screenshot.png) 
+# ![Dashboard Screenshot](Dashboard_Screenshot.png) 
 
 ## Author
 
-# Created by Sushant Shilimkar
+Created by Sushant Shilimkar
 
