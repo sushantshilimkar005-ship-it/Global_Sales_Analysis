@@ -44,11 +44,11 @@ Suggested GitHub README Content
 
 # Global Superstore Sales Analysis Dashboard
 
-## Overview
+# Overview
 
 An interactive Excel dashboard designed to analyze Global Superstore sales data with visual insights into sales, profit, customer segments, regions, and product categories.
 
-## Dashboard Features
+# Dashboard Features
 - Sales by State
 
 - Monthly Sales Trend
@@ -63,7 +63,7 @@ An interactive Excel dashboard designed to analyze Global Superstore sales data 
 
 - Interactive Filters & Slicers
 
-## Tools Used
+# Tools Used
 
 - Microsoft Excel
 
@@ -76,11 +76,11 @@ An interactive Excel dashboard designed to analyze Global Superstore sales data 
 - Data Visualization
 
 
-## Dashboard Preview
+# Dashboard Preview
 
 # ![Dashboard Screenshot](Dashboard_Screenshot.png) 
 
-## Author
+# Author
 
 Created by Sushant Shilimkar
 
