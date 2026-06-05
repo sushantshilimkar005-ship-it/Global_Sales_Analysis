@@ -40,7 +40,7 @@ Dashboard Preview
 
 •	Sales showed significant growth during the last quarter.
 
-# Suggested GitHub README Content
+Suggested GitHub README Content
 
 # Global Superstore Sales Analysis Dashboard
 
@@ -78,7 +78,7 @@ An interactive Excel dashboard designed to analyze Global Superstore sales data 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png]
+# ![Dashboard Screenshot] (Dashboard_Screenshot.png) 
 
 ## Author
 
