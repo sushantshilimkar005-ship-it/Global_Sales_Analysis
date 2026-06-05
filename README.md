@@ -1,6 +1,6 @@
 ### Global Superstore Sales Analysis Dashboard 🌐📊
 
-### 📌 Project Overview
+### 📌 Project Overview :
 
 Purpose: A dynamic, multi-dimensional Excel analytics dashboard built to monitor, analyze, and optimize international retail operations for a global superstore enterprise.
 
@@ -8,18 +8,19 @@ Scope: Consolidates corporate transactional records across multiple years (2014�
 
 Target Audience: Supply chain executives, regional sales managers, and business analysts seeking data-driven insights into corporate performance and market segmentation.
 
-### 📊 Dashboard Preview
+### 📊 Dashboard Preview :
 
 ![Dashboard_Screenshot](Dashboard_Screenshot.png)
 
-### 🎯 Key Objectives
+### 🎯 Key Objectives :
+
 Isolate Profitability Drivers: Track real-time correlations between gross revenue, operating discounts, and final profit margins to safeguard corporate bottom lines.
 
 Enhance Supply Chain Visibility: Monitor global shipping performance to identify bottleneck areas and optimize standard distribution metrics.
 
 Refine Customer Targeting: Evaluate transaction densities among diverse market demographics to maximize marketing budgets and seasonal item placement.
 
-### 📈 Key Performance Indicators (KPIs) Captured
+### 📈 Key Performance Indicators (KPIs) Captured:
 
 Sum of Total Sales: An extensive $2,296,468.92$ in aggregate gross revenue across global markets.
 
@@ -29,7 +30,7 @@ Average of Delivery: A baseline delivery timeline averaging $3.96$ days from ord
 
 Average of Discount: A standardized discount rate of $0.16$ ($16\%$) applied globally across active inventories.
 
-### 📌 Dashboard Features
+### 📌 Dashboard Features :
 
 Multi-Filter Slicer Array: Sidebar-mounted interactive panels for Order Year (2014–2017), Order Month, Segment, Category, and Region for synchronized, cross-report data slicing.
 
@@ -45,7 +46,7 @@ Top 10 Product Inventory Ledger: A horizontal ranking bar chart tracking individ
 
 Product Sales Category Matrix: A column chart breaking down sales distribution into multi-variable sub-categories, covering Technology, Furniture, and Office Supplies.
 
-### 🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used :
 
 Microsoft Excel: The primary development environment used for multi-table data processing, synthesis, and visual staging.
 
@@ -53,7 +54,7 @@ Excel PivotTables & PivotCharts: Deployed as the underlying computational analyt
 
 Advanced Slicers & Interactivity: Configured with robust report connections to tie separate visual modules into a single control pane.
 
-### 📊 Insights Generated
+### 📊 Insights Generated :
 
 Consumer Market Dominance: The "Consumer" market segment represents exactly half ($50\%$) of all corporate sales, establishing itself as the primary revenue foundation.
 
@@ -63,7 +64,7 @@ Q4 Holiday Sales Acceleration: Operational revenue trajectories experience an ag
 
 High-Value Tech Inventions Proving Vital: High-end technology inventory items (such as corporate copiers and specialized printers) account for the largest individual product sales volume blocks.  
 
-### 💡 Business Benefits
+### 💡 Business Benefits :
 
 Optimized Fulfillment Schedules: Tracking the $3.96$-day delivery standard allows management to identify and adjust underperforming distribution hubs.
 
@@ -73,10 +74,10 @@ Strategic Inventory Planning: Clear visibility into seasonal Q4 surges empowers 
 
 Demographic Tailored Marketing: Provides concrete numbers proving consumer market value, justifying larger advertising allocations toward individual consumer campaigns over home office brackets
 
-### 👨‍💻 Author
+### 👨‍💻 Author : sushant shilimkar
 
-Name: Your Name
+📧 Email:sushantshilimkar005@gmail.com
 
-Connect: Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-shilimkar-24b7a2351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Portfolio: Your Portfolio Link
+💻 GitHub: https://github.com/sushantshilimkar005-ship-it
