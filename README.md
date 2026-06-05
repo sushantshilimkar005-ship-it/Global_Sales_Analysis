@@ -1,8 +1,8 @@
-Global Superstore Sales Analysis Dashboard
+## Global Superstore Sales Analysis Dashboard
 This project is an interactive Excel dashboard created for analyzing Global Superstore sales data. The dashboard provides insights into sales performance, profit, customer segments, product categories, and regional trends.
 Dashboard Preview
  
-Key Features
+# Key Features
 
 •	Sales analysis by state and region
 
@@ -18,7 +18,7 @@ Key Features
 
 •	KPIs including Total Sales, Profit, Delivery Average, and Discount Average
 
-Tools & Technologies
+# Tools & Technologies
 
 •	Microsoft Excel
 
@@ -30,7 +30,7 @@ Tools & Technologies
 
 •	Dashboard Design & Data Visualization
 
-Insights from Dashboard
+# Insights from Dashboard
 
 •	California generated the highest sales among all states.
 
@@ -40,7 +40,7 @@ Insights from Dashboard
 
 •	Sales showed significant growth during the last quarter.
 
-Suggested GitHub README Content
+# Suggested GitHub README Content
 
 # Global Superstore Sales Analysis Dashboard
 
@@ -78,9 +78,9 @@ An interactive Excel dashboard designed to analyze Global Superstore sales data 
 
 ## Dashboard Preview
 
-(Dashboard_Screenshot)
+![Dashboard Screenshot](Dashboard_Screenshot.png]
 
 ## Author
 
-Created by Sushant Shilimkar
+# Created by Sushant Shilimkar
 
